@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Botanical Identification</string>
+    <string name="login">LOGIN</string>
+    <string name="application_logo">application logo</string>
 </resources>
